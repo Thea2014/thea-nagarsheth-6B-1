@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Starbucks</title>
+    <link rel="shortcut icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF6QX04ID_LRSiDoj-FRaA2MNELpHCSMAoig&s" type="image/x-icon">
+</head>
+<body>
+    <div class="header-container">
+        <div class="left-nav">
+            <div class="logo">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF6QX04ID_LRSiDoj-FRaA2MNELpHCSMAoig&s" alt="">
+            </div>
+            <ul>
+               <li>menu</li>
+               <li>rewards
+                <li>gift cards</li>
+            </ul>
+            <nav>
+            </div>
+            <div class="right-nav">
+                <div class="Sign In"Sign in></div>
+                  <div class="login"login></div>
+<div>
+<section class="left-right-sections">
+    <div class="image">
+<img src="https://www.pinterest.com/karinaortiz714/starbucks-aesthetics/" alt="">
+    </div>
+    <div class="text">
+<H1>The Spring edit</H1>
+<H3>fresh flavours,familiar joy</H3>
+<div class="cta" colour="white" text-decoration="none">
+<a href="https://www.starbucks.com/menu">View the menu</a>
+</div>
+    </div>
+</section>
+</body>
+</html>
